@@ -1,6 +1,6 @@
 # Eliminating Feature Ambiguity for Few-Shot Segmentation
 
-This repository contains the code for our ECCV 2024 [paper]() "*Eliminating Feature Ambiguity for Few-Shot Segmentation*", where we design a plug-in network AENet for three existing cross attention-based baselines: [CyCTR](https://github.com/YanFangCS/CyCTR-Pytorch), [SCCAN](https://github.com/Sam1224/SCCAN) and [HDMNet](https://github.com/Pbihao/HDMNet).
+This repository contains the code for our ECCV 2024 [paper](https://arxiv.org/abs/2407.09842) "*Eliminating Feature Ambiguity for Few-Shot Segmentation*", where we design a plug-in network AENet for three existing cross attention-based baselines: [CyCTR](https://github.com/YanFangCS/CyCTR-Pytorch), [SCCAN](https://github.com/Sam1224/SCCAN) and [HDMNet](https://github.com/Pbihao/HDMNet).
 
 ## Dependencies
 
